@@ -69,10 +69,10 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Matlab and Python
-- 📊 Standards: ARP-4754A, ARP-4761, DO-178C, DO-331
-- 📚 Modeling: Monitors, State Machines, State Logics, actuator modeling
-- 🗄️ V&V: HW/SW in the loop, test benches, Iron Bird, test automation
+- ✔️ Programming: Matlab and Python
+- ✔️ Standards: ARP-4754A, ARP-4761, DO-178C, DO-331
+- ✔️ Modeling: Monitors, State Machines, State Logics, actuator modeling
+- ✔️ V&V: HW/SW in the loop, test benches, Iron Bird, test automation
 """
 )
 
@@ -82,7 +82,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write('🚧', "**Systems Development Engineer | AES** :de:")
+st.write(':de:', "**Systems Development Engineer | AES**")
 st.write("2021 - Present")
 st.write(
     """
@@ -94,7 +94,7 @@ st.write(
 )
 
 # --- JOB 2
-st.write("🚧 ", "**Flight Control Laws Engineer, MRJ90 | MITAC** :jp:")
+st.write(":jp:", "**Flight Control Laws Engineer, MRJ90 | MITAC**")
 st.write("2019 - 2021")
 st.write(
     """
@@ -105,7 +105,7 @@ st.write(
 )
 
 # --- JOB 3
-st.write("🚧 ", "**Flight Control Laws Engineer, 190/195 E2 | Embraer** :flag-br:")
+st.write(":flag-br:", "**Flight Control Laws Engineer, 190/195 E2 | Embraer**")
 st.write("2015 - 2019")
 st.write(
     """
@@ -116,7 +116,7 @@ st.write(
 )
 
 # --- JOB 4
-st.write("🚧 ", "**Flight Control Laws Engineer, Legacy 450/500 | Embraer** :flag-br:")
+st.write(":flag-br:", "**Flight Control Laws Engineer, Legacy 450/500 | Embraer**")
 st.write("2013 - 2015")
 st.write(
     """
@@ -128,7 +128,7 @@ st.write(
 )
 
 # --- JOB 5
-st.write("🚧 ", "**Systems Engineer Trainee, (PEE) | Embraer** :flag-br:")
+st.write(":flag-br:", "**Systems Engineer Trainee, (PEE) | Embraer**")
 st.write("2012 - 2013")
 st.write(
     """
@@ -137,7 +137,7 @@ st.write(
 )
 
 # --- JOB 6
-st.write("🚧 ", "**Intern | Embraer** :flag-br:")
+st.write(":flag-br:", "**Intern | Embraer**")
 st.write("2011 - 2012")
 st.write(
     """
